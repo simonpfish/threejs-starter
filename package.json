@@ -1,0 +1,17 @@
+{
+  "name": "physics72",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.6",
+    "stats-js": "^1.0.0",
+    "three": "^0.103.0"
+  }
+}
